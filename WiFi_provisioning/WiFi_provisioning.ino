@@ -1,3 +1,5 @@
+//Permission to use this code was granted provided that we credit VeeruSubbuAmi from electronicsinnovation.com
+
 #include "WiFi.h"
 #include "esp_camera.h"
 #include "esp_timer.h"
